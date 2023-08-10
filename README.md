@@ -1,5 +1,5 @@
 # P2P-Network
-This repository contains the course project done as a part of the course CS252: Computer Networks at IIT Bombay in Spring 2022.
+This repository contains the course project done by me and (KDP)[https://github.com/khy724] as a part of the course CS252: Computer Networks at IIT Bombay in Spring 2022.
 
 ## Problem Statement
 In this project we implemented a P2P network for searching and downloading files. The overview is as follows
